@@ -1,1 +1,13 @@
-
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "game.hoola5",
+      "sha256_cert_fingerprints": [
+        "AE:24:04:CB:64:A9:EA:21:74:3A:53:2B:53:00:CD:6D:89:95:2E:27:9C:10:85:AF:C6:96:71:9C:CC:93:DE:AF",
+        "41:BE:7C:CB:4B:CC:C8:24:7B:7F:69:6B:2F:EE:79:B9:65:A1:A6:FE:2F:FF:85:DE:96:F1:70:DB:48:B0:59:BB"
+      ]
+    }
+  }
+]
